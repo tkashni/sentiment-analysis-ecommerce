@@ -51,4 +51,25 @@ https://www.kaggle.com/datasets/kazanova/sentiment140
 
 ## 🧠 Technologies Used
 - Python
-- TensorFlow /
+- TensorFlow / Keras
+- NumPy
+- Pandas
+- NLTK
+- Matplotlib
+- Jupyter Notebook
+
+---
+
+## 📊 Results
+- The model successfully learned sentiment patterns from textual data
+- Demonstrated effective classification of positive and negative tweets
+- Showed the applicability of deep learning for large-scale text analytics
+
+*(Performance may vary depending on preprocessing and model configuration)*
+
+---
+
+## ▶️ How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/sentiment-analysis-ecommerce-twitter.git
